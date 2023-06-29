@@ -1,4 +1,4 @@
-Hollwood Actors Classifier
+Hollywood Actors Classifier
 This project focuses on implementing Actors face recognition using Python for data science purposes.
 
 Table of Contents
@@ -35,7 +35,7 @@ Install the required dependencies:
 pip install -r requirements.txt
 
 Usage
-To use the Hollwood Actors Classifier, follow these steps:
+To use the Hollywood Actors Classifier, follow these steps:
 
 Prepare your dataset by collecting celebrity images or using pre-existing datasets.
 Train a model using the provided code or pre-trained models.
